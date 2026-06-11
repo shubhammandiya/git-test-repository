@@ -1,3 +1,3 @@
 mainfile 
 # edited now on github -> this was fetched and merged
-# edited again on github 
+# edited again on github -> this was pulled directly
